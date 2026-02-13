@@ -32,20 +32,8 @@ Fully translated into **5 languages** to reach a worldwide audience:
 
 ---
 
-## 🛠️ Technical Excellence
-
-### 📦 Zero-Dependency Portable Runtime
-The project comes with a **Portable Python Runtime**, allowing it to run on any Windows VPS/PC without installing Python or libraries globally.
-- **`start.bat`**: Single-click activation for the Bot and Backup Service.
-- **Standalone**: All dependencies are self-contained in the `runtime` folder.
-
-### 🛡️ Automated Security
-- **Real-Time Backups**: A dedicated watcher script (`db_backup.py`) monitors the database and sends a backup file directly to the owner's Telegram DM whenever a change occurs.
-- **State-of-the-Art Cryptography**: Deterministic wallet generation using Bip39 mnemonics ensures user keys are manageable and safe.
-
----
-
 *Developed with focus on speed, anonymity, and profitability.*
+
 
 
 
