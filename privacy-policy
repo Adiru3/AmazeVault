@@ -1,0 +1,24 @@
+# Privacy Policy for AmazeVault Telegram Bot
+
+**Last Updated: February 14, 2026**
+
+AmazeVault ("we," "our," or "the Bot") is committed to protecting the privacy and anonymity of its users. This Privacy Policy explains how we handle your data.
+
+### 1. Information Collection
+AmazeVault is designed to be anonymous. 
+- **NO Personal Data Required**: We do not ask for your name, email, phone number, or physical address.
+- **Telegram ID**: We identify you strictly by your unique Telegram ID to manage your internal wallet balances and transaction history.
+
+### 2. Wallet Security
+- **Seed Phrases/Private Keys**: All wallet addresses are generated deterministically using standard Bip39/Bip44/Bip84 protocols. 
+- **Ownership**: Your keys are handled securely by the bot logic to sign requested transactions. We do not share your private keys with any third parties.
+
+### 3. Usage of Information
+- We use your Telegram ID only to provide the Bot's services (wallets, trading, history).
+- We do not use tracking pixels, cookies, or other monitoring tools.
+
+### 4. Third-Party Services
+The Bot interacts with public Blockchain RPC nodes and the CoinGecko API to provide market data. These services only receive your public wallet address when checking balances or broadcasting transactions.
+
+### 5. Contact
+If you have questions regarding this policy, you may contact the bot administrator via Telegram.
