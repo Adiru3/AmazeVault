@@ -32,15 +32,6 @@ Fully translated into **5 languages** to reach a worldwide audience:
 
 ---
 
-## 📈 Revenue Model
-The bot is pre-configured with a **1% Transaction Fee** applied to:
-1.  **Exchanges**: You earn 1% on every internal trade.
-2.  **Withdrawals**: You earn 1% on every external transfer.
-
-Since internal exchanges cost zero gas, the 1% commission on trading is **100% pure profit**.
-
----
-
 ## 🛠️ Technical Excellence
 
 ### 📦 Zero-Dependency Portable Runtime
@@ -55,5 +46,6 @@ The project comes with a **Portable Python Runtime**, allowing it to run on any 
 ---
 
 *Developed with focus on speed, anonymity, and profitability.*
+
 
 
