@@ -19,6 +19,3 @@ AmazeVault is designed to be anonymous.
 
 ### 4. Third-Party Services
 The Bot interacts with public Blockchain RPC nodes and the CoinGecko API to provide market data. These services only receive your public wallet address when checking balances or broadcasting transactions.
-
-### 5. Contact
-If you have questions regarding this policy, you may contact the bot administrator via Telegram.
