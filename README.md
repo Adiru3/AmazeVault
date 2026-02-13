@@ -22,13 +22,6 @@ Complete blockchain withdrawal capabilities with an automated gas management sys
 - **Auto-Gas**: The bot automatically estimates network fees and deducts them from the user's internal balance.
 - **Zero-Friction**: Users don't need to hold "native" gas coins (like TRX or ETH) to withdraw tokens; the bot handles the conversion and pre-payment.
 
-### 📊 Professional Admin Suite
-A powerful dashboard for owners to manage the platform and track profits:
-- **Commission Tracking**: Real-time stats on 1% profit accumulation across all coins.
-- **Sweep System**: One-click consolidation of accumulated fees to a single "Hub" wallet (Binance, Bybit, Cold Wallet).
-- **Global Broadcast**: Send news and updates to all users in their preferred language.
-- **Administrator Management**: Add or remove sub-admins to help manage the bot.
-
 ### 🌐 Global Localization
 Fully translated into **5 languages** to reach a worldwide audience:
 - 🇬🇧 English
@@ -62,4 +55,5 @@ The project comes with a **Portable Python Runtime**, allowing it to run on any 
 ---
 
 *Developed with focus on speed, anonymity, and profitability.*
+
 
