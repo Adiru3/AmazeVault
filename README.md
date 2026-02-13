@@ -1,3 +1,5 @@
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/c644af94-3a58-4e8b-809b-52b87007c16d" />
+
 # 🛡️ AmazeVault - Multi-Currency Crypto Wallet Bot
 
 **AmazeVault** is a professional, high-performance Telegram cryptocurrency wallet designed for seamless asset management, instant internal trading, and secure blockchain withdrawals. It is a complete solution for anyone looking to run their own crypto-banking service with a built-in revenue model.
@@ -33,6 +35,7 @@ Fully translated into **5 languages** to reach a worldwide audience:
 ---
 
 *Developed with focus on speed, anonymity, and profitability.*
+
 
 
 
