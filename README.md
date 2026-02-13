@@ -61,10 +61,5 @@ The project comes with a **Portable Python Runtime**, allowing it to run on any 
 
 ---
 
-## 📋 Installation & Requirements
-
-1. **Clone** the repository.
-2. **Configure `.env`**: Add your `BOT_TOKEN` and `ADMIN_ID`.
-3. **Launch**: Double-click `start.bat`.
-
 *Developed with focus on speed, anonymity, and profitability.*
+
