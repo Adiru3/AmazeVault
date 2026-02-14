@@ -1,21 +1,39 @@
-# Privacy Policy for AmazeVault Telegram Bot
+# Privacy Policy for AmazeVault
 
 **Last Updated: February 14, 2026**
 
-AmazeVault ("we," "our," or "the Bot") is committed to protecting the privacy and anonymity of its users. This Privacy Policy explains how we handle your data.
+AmazeVault ("we," "our," or "the Bot") respects your privacy. This policy outlines how we handle your information when you use our Telegram-based cryptocurrency wallet services.
 
-### 1. Information Collection
-AmazeVault is designed to be anonymous. 
-- **NO Personal Data Required**: We do not ask for your name, email, phone number, or physical address.
-- **Telegram ID**: We identify you strictly by your unique Telegram ID to manage your internal wallet balances and transaction history.
+### 1. Information We Collect
 
-### 2. Wallet Security
-- **Seed Phrases/Private Keys**: All wallet addresses are generated deterministically using standard Bip39/Bip44/Bip84 protocols. 
-- **Ownership**: Your keys are handled securely by the bot logic to sign requested transactions. We do not share your private keys with any third parties.
+We operate on a **minimal data** principle.
 
-### 3. Usage of Information
-- We use your Telegram ID only to provide the Bot's services (wallets, trading, history).
-- We do not use tracking pixels, cookies, or other monitoring tools.
+*   **Identifiable Information**: We **DO NOT** collect your real name, email address, phone number, IP address, or physical location.
+*   **Telegram Data**: We store your public **Telegram User ID** and **Username** solely to link your wallet to your Telegram account. This is the only way for the bot to know "who owns which wallet."
+*   **Transaction Data**: We store a history of your Deposits, Withdrawals, and Exchanges (Amounts, TXIDs, Time) to provide you with an accurate account statement. This data is linked only to your Telegram ID.
 
-### 4. Third-Party Services
-The Bot interacts with public Blockchain RPC nodes and the CoinGecko API to provide market data. These services only receive your public wallet address when checking balances or broadcasting transactions.
+### 2. Wallet Security & Funds
+
+*   **Non-Custodial Logic**: Your cryptocurrency addresses are generated deterministically using industry-standard algorithms (BIP-39, BIP-44, BIP-84).
+*   **Private Keys**: Private keys are generated and encrypted by the bot's core system solely for the purpose of signing transactions you authorize.
+*   **No Third-Party Access**: We never share, sell, or expose your private keys or seed phrases to anyone.
+
+### 3. Usage of Third-Party Services
+
+To function, the bot interacts with public blockchain networks and reputable APIs.
+
+*   **Public Blockchains**: When you send a transaction (Withdrawal), the destination address and amount become public record on the respective blockchain (Bitcoin, Ethereum, etc.), as is the nature of all crypto transactions.
+*   **Price Data**: We use public APIs (like **CoinGecko**) to fetch current exchange rates. These services do not receive your personal data.
+*   **Exchange Partners**: For auto-exchange features, we may utilize non-custodial exchange providers (such as **FixedFloat**). In these cases, only the necessary transaction details (Amount, Coin Type, Destination Address) are transmitted to execute the swap.
+
+### 4. Data Retention
+
+We retain transaction history and wallet balances as long as you use the service. You may request account deletion at any time by contacting support, which will remove your data from our active database.
+
+### 5. Changes to This Policy
+
+We may update this policy periodically. Continued use of the bot constitutes acceptance of potential changes.
+
+---
+
+**Contact Support**: If you have questions about this policy, please use the `/support` command in the bot.
